@@ -1,7 +1,3 @@
-Here's a description you can use for your GitHub repository for the **YouTube Manager Project**:
-
----
-
 ## YouTube Manager Project
 
 ### Overview
@@ -36,7 +32,3 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ### License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize any part of this description to better fit your project or add any additional sections you think might be useful!
