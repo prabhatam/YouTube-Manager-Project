@@ -33,7 +33,3 @@ Contributions are welcome! Feel free to fork the repository, make changes, and s
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to replace `yourusername` with your actual GitHub username, and add any additional sections or information as needed!
